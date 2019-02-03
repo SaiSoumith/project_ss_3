@@ -67,6 +67,38 @@ div#div_id{
   left: 850px;
 
 }
+
+#img1:hover{
+
+  transform: scale(1.28);
+}
+#img2:hover{
+
+  transform: scale(1.28);
+}
+#img3:hover{
+
+  transform: scale(1.28);
+}
+#img4:hover{
+
+  transform: scale(1.28);
+}
+#img5:hover{
+
+  transform: scale(1.28);
+}
+
+
+
+
+
+
+#img6:hover{
+
+  transform: scale(1.28);
+}
+
 .row {
   width: 100%;
 }
@@ -164,3 +196,4 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
